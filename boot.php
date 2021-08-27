@@ -1,4 +1,4 @@
-<?
+<?php
 $oBeMails = new nvBeMails;
 
 $addon = rex_addon::get("nv_bemails");

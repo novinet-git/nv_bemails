@@ -21,5 +21,5 @@ page:
     perm: 'nv_bemails[]'
     subpages:
         settings: { title: translate:send_mail }
-        templates: { title: translate:templates, perm: admin[] }
+        templates: { title: translate:templates, perm: nv_bemails_admin[] }
         info: { title: translate:info }
